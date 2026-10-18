@@ -1,0 +1,738 @@
+137CS    ADOPTED LEVELS, GAMMAS                                  07NDS    200709
+137CS  H TYP=ERR$AUT=J. Tuli$DAT=17-Dec-2007$COM=fixed typos noted by PNPI$     
+137CS  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 108,2173 (2007)$             
+137CS2 H CUT=1-Oct-2006$                                                        
+137CS  Q 1175.63   188278.2  197405.6  4 -3084   5     2012WA38                 
+137CS  XA137XE B- DECAY                                                         
+137CS  XB136XE(P,P),(P,P') IAR                                                  
+137CS  XC136XE(3HE,D)                                                           
+137CS  XD138BA(MU-,NG)                                                          
+137CS  XE138BA(D,3HE)                                                           
+137CS  XF232TH(136XE,X)                                                         
+137CS  XG136XE(232TH,231ACG)                                                    
+137CS  XH252CF SF DECAY                                                         
+137CS PN                                                                     6  
+137CS  L 0.0         7/2+              30.08 Y   9                          A   
+137CSX L XREF=ACDEFGH                                                           
+137CS2 L %B-=100$MOMM1=+2.8413 1 (1989Ra17)$MOME2=+0.051 1 (1989Ra17)           
+137CS  L    455.491 35/2+              0.1 NS    LE                             
+137CSX L XREF=ACDE                                                              
+137CS  G 455.490    3100       E2                       0.0122                  
+137CSB G BE2W>6.8                                                               
+137CSS G KC=0.0103 3$LC=0.00156 5$MC=0.00032 1                                  
+137CS  L     848.88 4                                                           
+137CSX L XREF=AD                                                                
+137CS  G 393.35     622.5    15                                                 
+137CS  G 848.95     6100      5                                                 
+137CS  L    1184.69 4(11/2+)                                                A   
+137CSX L XREF=AFGH                                                              
+137CS  G 1184.67    5100                                                        
+137CS  L 1273.20    6                                                           
+137CSX L XREF=A                                                                 
+137CS  G 1273.23   10100                                                        
+137CS  L 1490      121/2+                                                       
+137CSX L XREF=C                                                                 
+137CS  L    1564.11 6                                                           
+137CSX L XREF=A                                                                 
+137CS  G 715.2      213       3                                                 
+137CS  G 1108.63    6100      9                                                 
+137CS  G 1564.0     219.5    24                                                 
+137CS  L    1569.83 4                                                           
+137CSX L XREF=A                                                                 
+137CS  G 1114.32    6100      7                                                 
+137CS  G 1569.77    793       7                                                 
+137CS  L    1574.83 6                                                           
+137CSX L XREF=A                                                                 
+137CS  G 1119.33    6100      6                                                 
+137CS  G 1574.83   1567       9                                                 
+137CS  L    1651.23 6                                                           
+137CSX L XREF=A                                                                 
+137CS  G 802.4      48        3                                                 
+137CS  G 1195.75    6100      6                                                 
+137CS  G 1651.14   209.1     13                                                 
+137CS  L    1671.6911(15/2+)                                                A   
+137CSX L XREF=FGH                                                               
+137CS  G 487.0      1100                                                        
+137CS  L    1783.46 5                                                           
+137CSX L XREF=A                                                                 
+137CS  G 1327.98    67.1      6                                                 
+137CS  G 1783.43    6100      5                                                 
+137CS  L    1867.86 49/2-                                                       
+137CSX L XREF=AC                                                                
+137CS  G 298.00     7100     8                                                  
+137CS  G 594.70     671      8                                                  
+137CS  G 683.2      117.1    18                                                 
+137CS  G 1867.96    813.7    13                                                 
+137CS  L    1893.9915(17/2+)                                                C   
+137CSX L XREF=FGH                                                               
+137CS  G 222.3      1100                                                        
+137CS  L    1916.27 5                                                           
+137CSX L XREF=A                                                                 
+137CS  G 1067.4     251      10                                                 
+137CS  G 1461.16   2017.7    23                                                 
+137CS  G 1916.31    8100     13                                                 
+137CS  L    2068.02 6(3/2+,5/2+)                                                
+137CSX L XREF=AC                                                                
+137CS  G 1219.0     42.3      5                                                 
+137CS  G 1612.52    6100      8                                                 
+137CS  G 2068.0     28.3      8                                                 
+137CS  L 2099.40    9                                                           
+137CSX L XREF=A                                                                 
+137CS  G 1250.6     449       7                                                 
+137CS  G 1644.0     8 7       4                                                 
+137CS  G 2099.42   15100      9                                                 
+137CS  L 2150      171/2+                                                       
+137CSX L XREF=C                                                                 
+137CS  L    2216.7822                                                           
+137CSX L XREF=A                                                                 
+137CS  G 1761.3     3100     26                                                 
+137CS  G 2216.8     440      16                                                 
+137CS  L    2367.8311                                                           
+137CSX L XREF=A                                                                 
+137CS  G 1518.8     529      10                                                 
+137CS  G 2367.65   20100     14                                                 
+137CS  L    2784.1918(21/2+)                                                C   
+137CSX L XREF=FGH                                                               
+137CS  G 890.2      1100                                                        
+137CS  L    2795.9220                                                          ?
+137CSX L XREF=A                                                                 
+137CS  G 1232.1     759      24                                                 
+137CS  G 1947.0     2100     13                                                 
+137CS  L    2849.1012                                                           
+137CSX L XREF=A                                                                 
+137CS  G 2000.3     221.9    23                                                 
+137CS  G 2393.53   15100      8                                                 
+137CS  L 2850.03    4                                                           
+137CSX L XREF=A                                                                 
+137CS  G 482.14    127.2     15                                                 
+137CS  G 633.4      51.2      6                                                 
+137CS  G 750.65    1010.0    10                                                 
+137CS  G 933.82     640       3                                                 
+137CS  G 982.25     5100      6                                                 
+137CS  G 1066.6     226       4                                                 
+137CS  G 1280.05   154.5      5                                                 
+137CS  G 1576.75   1049       4                                                 
+137CS  G 1665.30    725.4    15                                                 
+137CS  G 2849.8     188       4                                                 
+137CS  L 2876.1       (19/2+)                                               C   
+137CSX L XREF=H                                                                 
+137CS  G 982.1        100                                                       
+137CS  L    2945.1717                                                           
+137CSX L XREF=A                                                                 
+137CS  G 2096.4     3100     13                                                 
+137CS  G 2489.6     238       4                                                 
+137CS  L    3037.30 7                                                           
+137CSX L XREF=A                                                                 
+137CS  G 2188.44   1035       4                                                 
+137CS  G 2581.71   10100      9                                                 
+137CS  G 3037.4     219       3                                                 
+137CS  L    3104.1525                                                           
+137CSX L XREF=A                                                                 
+137CS  G 1236.2     4100     18                                                 
+137CS  G 2255.3     373       9                                                 
+137CS  L    3159.4520                                                           
+137CSX L XREF=A                                                                 
+137CS  G 1974.9     910       3                                                 
+137CS  G 3159.4     2100     11                                                 
+137CS  L 3168.1       (19/2+)                                               F   
+137CSX L XREF=H                                                                 
+137CS  G 1274.1       100                                                       
+137CS  L 3303.6       (19/2-)                                               E   
+137CSX L XREF=H                                                                 
+137CS  G 1409.6       100                                                       
+137CS  L    3377.4613                                                           
+137CSX L XREF=A                                                                 
+137CS  G 1594.0     618       4                                                 
+137CS  G 1726.3     313.5    23                                                 
+137CS  G 2528.6     68.2     19                                                 
+137CS  G 2921.9     2100      9                                                 
+137CS  G 3377.4     211.2    14                                                 
+137CS  L     3465.3 3(23/2+)                                                F   
+137CSX L XREF=FGH                                                               
+137CS  G 681.1      2100                                                        
+137CS  L    3496.3921(23/2-)                                                E   
+137CSX L XREF=FGH                                                               
+137CS  G 193.1                                                                  
+137CS  G 712.2      1100                                                        
+137CS  L 3503.4       (21/2-)                                               E   
+137CSX L XREF=H                                                                 
+137CS  G 1609.4       100                                                       
+137CS  L    3584.1020                                                           
+137CSX L XREF=A                                                                 
+137CS  G 1933.3     468      19                                                 
+137CS  G 2311.1     549      13                                                 
+137CS  G 2735.2     470      14                                                 
+137CS  G 3583.7     3100     14                                                 
+137CS  L     3694.1 3                                                          ?
+137CSX L XREF=A                                                                 
+137CS  G 3694.0     3100                                                        
+137CS  L     3736.7 5                                                          ?
+137CSX L XREF=A                                                                 
+137CS  G 2463.3     7100     39                                                 
+137CS  G 3736.9     744      13                                                 
+137CS  L    3786.9218                                                           
+137CSX L XREF=A                                                                 
+137CS  G 2003.4     3100     19                                                 
+137CS  G 2212.1     262      10                                                 
+137CS  L    3823.9620                                                          ?
+137CSX L XREF=A                                                                 
+137CS  G 1907.7     2100     12                                                 
+137CS  G 2638.9     717       6                                                 
+137CS  L     3907.2 4                                                           
+137CSX L XREF=A                                                                 
+137CS  G 3451.8     835      16                                                 
+137CS  G 3907.1     4100     16                                                 
+137CS  L     3937.7 7                                                          ?
+137CSX L XREF=A                                                                 
+137CS  G 1720.9     6100                                                        
+137CS  L     3938.8 4                                                          ?
+137CSX L XREF=A                                                                 
+137CS  G 2287.1     4100     18                                                 
+137CS  G 3940.7     918       9                                                 
+137CS  L    3952.40 8                                                          ?
+137CSX L XREF=A                                                                 
+137CS  G 1102.42   10100      9                                                 
+137CS  G 2084.47   1083       6                                                 
+137CS  L 3955.7     6                                                          ?
+137CSX L XREF=A                                                                 
+137CS  G 2304.5     8100     44                                                 
+137CS  G 3955.5     861      22                                                 
+137CS  L     3976.5 8                                                          ?
+137CSX L XREF=A                                                                 
+137CS  G 3976.4     8100                                                        
+137CS  L 4117.6       (19/2+)                                               G   
+137CSX L XREF=H                                                                 
+137CS  G 2223.6       100                                                       
+137CS  L 4291.0       (21/2+)                                               G   
+137CSX L XREF=H                                                                 
+137CS  G 2397.0       100                                                       
+137CS  L     4351.6 4 (23/2+)                                               G   
+137CSX L XREF=FGH                                                               
+137CS  G 1567.4     3100                                                        
+137CS  L 4408.30   23(27/2-)                                                E   
+137CSX L XREF=FGH                                                               
+137CS  G 911.9      1100                                                        
+137CS  L     4776.6 4  (25/2+)                                              G   
+137CSX L XREF=FGH                                                               
+137CS  G 425.0      2100                                                        
+137CS  L     5023.0 3(29/2-)                                                D   
+137CSX L XREF=FGH                                                               
+137CS  G 614.7      2100                                                        
+137CS  L     5494.2 5(31/2-)                                                D   
+137CSX L XREF=FGH                                                               
+137CS  G 471.2      3100                                                        
+137CS  L 10195     20(7/2-)                                                 B   
+137CSX L XREF=B                                                                 
+137CS  L 10794     20(3/2-)                                                 B   
+137CSX L XREF=B                                                                 
+137CS  L 11173     20(1/2-)                                                 B   
+137CSX L XREF=B                                                                 
+137CS  L 11421     20(9/2-)                                                 B   
+137CSX L XREF=B                                                                 
+137CS  L 11498     20(5/2-)                                                 B   
+137CSX L XREF=B                                                                 
+137CS  L 11724     20(7/2-)                                                     
+137CSX L XREF=B                                                                 
+137CS  L 11940     20(5/2-)                                                 B   
+137CSX L XREF=B                                                                 
+137CS  L 12050     20(3/2-)                                                 B   
+137CSX L XREF=B                                                                 
+137CS  L 12140     20(1/2-)                                                 B   
+137CSX L XREF=B                                                                 
+137CS  L 12209     20(5/2-)                                                 B   
+137CSX L XREF=B                                                                 
+137CS  L 12399     20(1/2-)                                                 B   
+137CSX L XREF=B                                                                 
+137CS  L 12479     20(5/2-)                                                 B   
+137CSX L XREF=B                                                                 
+137CS  L 12698     20(3/2-)                                                 B   
+137CSX L XREF=B                                                                 
+137CS  L 12788     20(1/2-)                                                 B   
+137CSX L XREF=B                                                                 
+                                                                                
+137BA    ADOPTED LEVELS, GAMMAS                                  07NDS    200709
+137BA  H TYP=UPD$AUT=J. K. TULI$DAT=13-Aug-2009$COM=added 2000Tr07 g vlaue$     
+137BA  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 108,2173 (2007)$             
+137BA2 H CUT=1-Oct-2006$                                                        
+137BA  Q -580.5    176905.63 7 8671.5  19-2502.8 25    2012WA38                 
+137BA  XA137CS B- DECAY                                                         
+137BA  XB137BA IT DECAY (2.552 M)                                               
+137BA  XC137LA EC DECAY                                                         
+137BA  XE136XE(A,3NG)                                                           
+137BA  XF136BA(N,G) E=THERMAL                                                   
+137BA  XG136BA(D,P)                                                             
+137BA  XH137BA(G,G')                                                            
+137BA  XI137BA(N,N'G)                                                           
+137BA  XDCOULOMB EXCITATION                                                     
+137BA  XJ138BA(P,D)                                                             
+137BA PN                                                                     6  
+137BA  L 0.0         3/2+              STABLE                                   
+137BAX L XREF=ABCDEFGHIJ                                                        
+137BA2 L MOMM1=+0.935814 5 (2000Tr07)                                           
+137BA2 L MOME2=+0.245 4 (1988We07,1989Ra17)                                     
+137BA  L 283.54     41/2+                                                       
+137BAX L XREF=ADFGIJ                                                            
+137BA2 L FLAG=B                                                                 
+137BA  G 283.53     4100                                                        
+137BA  L    661.659 311/2-              2.552 M  1                           M  
+137BAX L XREF=ABEFGHIJ                                                          
+137BA2 L %IT=100                                                                
+137BA3 L MOMM1=-0.992 26 (1983Mu12,1989Ra17)                                    
+137BA4 L MOME2=+0.78 9 (1983Mu12,1989Ra17)                                      
+137BA  G 661.657   3 100       M4                      0.1124                   
+137BA3 G BM4W=2.719 9                                                           
+137BAS G KC=0.0915 13$LC=0.01648 23$MC=0.00352 5$NC+=0.000879 13                
+137BAS G NC=0.000759 11$OC=0.0001134 16$PC=7.21E-6 11                           
+137BA  L 907       10                                                          ?
+137BAX L XREF=G                                                                 
+137BA  L 1044      10                                                          ?
+137BAX L XREF=G                                                                 
+137BA  L 1251.82    87/2+              0.354 PS  24                             
+137BAX L XREF=DEFI                                                              
+137BA  G 1251.81   8 100       E2                      1.14E-3                  
+137BAB G BE2W=12.5 11                                                           
+137BAS G KC=0.000974 14$LC=0.0001245 18$MC=2.56E-5 4$NC+=1.98E-5 3              
+137BAS G NC=5.51E-6 8$OC=8.41E-7 12$PC=6.06E-8 9$IPC=1.341E-5 19                
+137BA  L 1293.90    85/2+                                                       
+137BAX L XREF=DFGIJ                                                             
+137BA  G 1293.90   8 100       M1+E2                   0.0012417                
+137BAS G KC=0.00106 15$LC=0.000133 17$MC=2.7E-5 4$NC+=2.70E-5 7                 
+137BAS G NC=5.9E-6 8$OC=9.0E-7 12$PC=6.7E-8 10$IPC=2.02E-5 5                    
+137BA  L 1463.8     63/2+                                                       
+137BAX L XREF=FGHIJ                                                             
+137BA  G 1180.6      5         D                                                
+137BA  G 1463.91     100                                                        
+137BA  L 1481.8     4(3/2+,5/2+)                                                
+137BAX L XREF=FIH                                                               
+137BA  G 230.0      4                                                       *   
+137BA  G 1198.33     67                                                         
+137BA  G 1481.66     100                                                        
+137BA  L 1797.67   177/2-                                                       
+137BAX L XREF=FGI                                                               
+137BA  G 504.0       1.0                                                        
+137BA  G 1136.69     100       E2                      1.38E-3                  
+137BA2 G FL=661.659                                                             
+137BAS G KC=0.001187 17$LC=0.0001532 22$MC=3.15E-5 5$NC+=9.25E-6 13             
+137BAS G NC=6.77E-6 10$OC=1.033E-6 15$PC=7.37E-8 11$IPC=1.370E-6 20             
+137BA  L 1837.6     71/2+                                                       
+137BAX L XREF=FGHIJ                                                             
+137BA  G 1553.64     100                                                        
+137BAF G FL=283.54                                                              
+137BA  G 1838.0      45                                                         
+137BA  L 1857      10(1/2+)                                                    ?
+137BAX L XREF=G                                                                 
+137BA  L 1892.0    10                                                           
+137BAX L XREF=H                                                                 
+137BA  G 1892                                                                   
+137BA  L 1899.4     43/2+                                                       
+137BAX L XREF=FG(*)HIJ(*)                                                       
+137BA2 L FLAG=B                                                                 
+137BA  G 1615.8      85                                                         
+137BA  G 1899.0      100       D                                                
+137BA  L 1907.52   203/2+                                                       
+137BAX L XREF=FG(*)HIJ(*)                                                       
+137BA2 L FLAG=B                                                                 
+137BA  G 1623.32     100     11                                                 
+137BAF G FL=283.54                                                              
+137BA  G 1908.0      89      24                                                 
+137BA  L 2041.4     6(5/2)+                                                     
+137BAX L XREF=FGHIJ                                                             
+137BA  G 578.0       12                                                         
+137BA  G 747.43      40                                                     @   
+137BA  G 2041.1      100                                                        
+137BA  L 2047.4     3                                                           
+137BAX L XREF=E                                                                 
+137BA  G 1385.7     3100                                                        
+137BA  L 2117.0    10                                                           
+137BAX L XREF=H                                                                 
+137BA  G 2117        100                                                        
+137BA  L 2182.22    53/2-                                                       
+137BAX L XREF=FG                                                                
+137BA2 L FLAG=B                                                                 
+137BA  G 384.59    170.82    14                                                 
+137BAF G FL=1797.67                                                             
+137BA  G 1898.70    5100.0   9                                                  
+137BA  G 2182.23   9 2.5     2                                                  
+137BA  L 2228.9     47/2+                                                       
+137BAX L XREF=IJ                                                                
+137BA  G 747.5       89                                                     @   
+137BA  G 766.1       100                                                       ?
+137BAF G FL=1463.8                                                              
+137BA  G 934.9       33                                                         
+137BA  G 976.8                                                                  
+137BA  L 2229.5     4(13/2-)                                                    
+137BAX L XREF=EI                                                                
+137BA  G 182.0      31.5      5                                                 
+137BA  G 1568.3      100     11D                                                
+137BA  L 2271.0     4(3/2+,5/2)                                                 
+137BAX L XREF=FGI                                                               
+137BA  G 371.3       17.5                                                       
+137BA  G 976.8       100                                                        
+137BA  G 1019.0      37.5                                                       
+137BA  G 2271.4      95                                                         
+137BA  L 2311.0    10                                                           
+137BAX L XREF=H                                                                 
+137BA  G 2311        100                                                        
+137BA  L 2340      207/2+,9/2+                                                  
+137BAX L XREF=J                                                                 
+137BA  L 2344.0    10                                                           
+137BAX L XREF=H                                                                 
+137BA  G 2344        100                                                        
+137BA  L 2349.1     5(17/2-)           0.59 US   10                             
+137BAX L XREF=E                                                                 
+137BA  G 120.2     3 100       E2                      1.004  17                
+137BA2 G FL=2229.5                                                              
+137BAS G KC=0.687 11$LC=0.250 5$MC=0.0545 10$NC+=0.01289 23                     
+137BAS G NC=0.01134 21$OC=0.00152 3$PC=3.28E-5 6                                
+137BA  L 2355.6     41/2,3/2                                                    
+137BAX L XREF=F                                                                 
+137BA2 L FLAG=B                                                                 
+137BA  G 2072.6    6 100     16                                                 
+137BA  G 2355.4    4 52      16                                                 
+137BA  L 2373.0    10                                                           
+137BAX L XREF=H                                                                 
+137BA  G 2373        100                                                        
+137BA  L 2407.8     5                                                           
+137BAX L XREF=E                                                                 
+137BA  G 178.9      3100                                                        
+137BA2 G FL=2229.5                                                              
+137BA  L 2427.0    10                                                           
+137BAX L XREF=H                                                                 
+137BA  G 2427        100                                                        
+137BA  L 2438.8     3                                                          ?
+137BAX L XREF=E                                                                 
+137BA  G 1777.1     3100                                                        
+137BA  L 2529.6     67/2+                                                       
+137BAX L XREF=IJ                                                                
+137BA  G 622.2       51                                                         
+137BA  G 731.1       71                                                         
+137BA  G 1067.8      33                                                        ?
+137BAF G FL=1463.8                                                              
+137BA  G 1236.4      100                                                        
+137BA  G 1868.8                                                                ?
+137BA  L 2571.0    10                                                           
+137BAX L XREF=H                                                                 
+137BA  G 2571        100                                                        
+137BA  L 2590.1     4                                                           
+137BAX L XREF=E                                                                 
+137BA  G 151.3      3100     10                                                 
+137BA  G 361.1      380       8                                                 
+137BA2 G FL=2229.5                                                              
+137BA  L 2623.8     6(19/2)            30 NS     LE                             
+137BAX L XREF=E                                                                 
+137BA  G 274.7      3100       D                                                
+137BA  L 2653.0    10                                                           
+137BAX L XREF=H                                                                 
+137BA  G 2653        100                                                        
+137BA  L 2662.72    51/2-                                                       
+137BAX L XREF=FGJ                                                               
+137BA2 L FLAG=B                                                                 
+137BA  G 480.61    7 87      3                                                  
+137BA  G 755.24    215.3     5                                                  
+137BA  G 763.4     4 1.4     5                                                  
+137BA  G 2379.07   7 70      3                                                  
+137BA  G 2662.68   7 100     3                                                  
+137BA  L 2709.0    10                                                           
+137BAX L XREF=GH                                                                
+137BA  G 2709                                                                   
+137BA  L 2750      30                                                           
+137BAX L XREF=J                                                                 
+137BA  L 2810      20(5/2-,7/2-)                                               ?
+137BAX L XREF=G                                                                 
+137BA  L 2848      205/2-,7/2-                                                  
+137BAX L XREF=G                                                                 
+137BA  L 2873.8    11(5/2)-                                                     
+137BAX L XREF=FGIJ(*)                                                           
+137BA  G 1076.1                                                                 
+137BA  G 1623.1                                                                ?
+137BA  L 2905.0    105/2-,7/2-                                                  
+137BAX L XREF=GHJ(*)                                                            
+137BA  G 2905                                                                   
+137BA  L 2954.0    10                                                           
+137BAX L XREF=H                                                                 
+137BA  G 2954        100                                                        
+137BA  L 2964.9     41/2,3/2                                                    
+137BAX L XREF=F                                                                 
+137BA2 L FLAG=B                                                                 
+137BA  G 1057.4    1210      4                                              @   
+137BA  G 2964.9    4 100     15                                                 
+137BA  L 2990      307/2+,9/2+                                                  
+137BAX L XREF=J                                                                 
+137BA  L 3008      20                                                           
+137BAX L XREF=G                                                                 
+137BA  L 3037.0    10                                                          ?
+137BAX L XREF=GH                                                                
+137BA  G 3037                                                                   
+137BA  L 3074.0    10                                                           
+137BAX L XREF=H                                                                 
+137BA  G 3074                                                                   
+137BA  L 3086.1     41/2,3/2                                                    
+137BAX L XREF=F                                                                 
+137BA2 L FLAG=B                                                                 
+137BA  G 2800.9    6 100                                                        
+137BA  G 3086.9    7 52                                                         
+137BA  L 3094.0    10                                                           
+137BAX L XREF=H                                                                 
+137BA  G 3094                                                                   
+137BA  L 3127.42   121/2,3/2                                                    
+137BAX L XREF=FJ                                                                
+137BA2 L FLAG=B                                                                 
+137BA  G 945         12                                                         
+137BA  G 2843.80   1956      7                                                  
+137BA  G 3127.41   14100     7                                                  
+137BA  L 3140.0    10                                                           
+137BAX L XREF=H                                                                 
+137BA  G 3140                                                                   
+137BA  L 3141      20(9/2)-                                                     
+137BAX L XREF=G                                                                 
+137BA  L 3179.4     7                                                           
+137BAX L XREF=E                                                                 
+137BA  G 555.6      3100                                                        
+137BA  L 3221.0    10 1/2,3/2                                               B   
+137BAX L XREF=FJ                                                                
+137BA  G 3221        100                                                        
+137BA  L    3228   205/2-,7/2-                                                  
+137BAX L XREF=G                                                                 
+137BA  L 3244.0     7                                                           
+137BAX L XREF=E                                                                 
+137BA  G 620.2      3100                                                        
+137BA  L 3251.0    10                                                          ?
+137BAX L XREF=GH                                                                
+137BA  G 3251                                                                   
+137BA  L 3279.0    10                                                          ?
+137BAX L XREF=H                                                                 
+137BA  G 3279                                                                   
+137BA  L 3316.53   151/2-,3/2-                                                  
+137BAX L XREF=FG                                                                
+137BA2 L FLAG=B                                                                 
+137BA  G 230.0     4 24      4                                              *   
+137BA  G 1134        8                                                          
+137BA  G 1416        9                                                          
+137BA  G 3033.06   15100     5                                                  
+137BA  G 3316        5                                                          
+137BA  L 3332.0    10(5/2)-                                                    ?
+137BAX L XREF=GH                                                                
+137BA  G 3332                                                                   
+137BA  L 3383.0    10                                                          ?
+137BAX L XREF=H                                                                 
+137BA  G 3383                                                                   
+137BA  L 3402.54   113/2-                                                       
+137BAX L XREF=FG                                                                
+137BA2 L FLAG=B                                                                 
+137BA  G 1220        5.5                                                        
+137BA  G 2107.6    9 11      3                                                  
+137BA  G 3118.95   11100     6                                                  
+137BA  G 3402        5.5                                                        
+137BAF G FL=0.0                                                                 
+137BA  L 3420      20                                                          ?
+137BAX L XREF=J                                                                 
+137BA  L 3453.0    10                                                          ?
+137BAX L XREF=H                                                                 
+137BA  G 3453                                                                   
+137BA  L 3473.0    10                                                          ?
+137BAX L XREF=H                                                                 
+137BA  G 3473                                                                   
+137BA  L 3496      205/2-,7/2-                                                 ?
+137BAX L XREF=G                                                                 
+137BA  L 3525.0    10                                                          ?
+137BAX L XREF=H                                                                 
+137BA  G 3525                                                                   
+137BA  L 3550        7/2+,9/2+                                                  
+137BAX L XREF=J                                                                 
+137BA  L 3563.0    10                                                          ?
+137BAX L XREF=H                                                                 
+137BA  G 3563                                                                   
+137BA  L 3591      205/2-,7/2-                                                 ?
+137BAX L XREF=G                                                                 
+137BA  L 3606.1    10                                                          ?
+137BAX L XREF=FG                                                                
+137BA2 L FLAG=B                                                                 
+137BA  G 3606        100                                                        
+137BA  L 3640.1    105/2-,7/2-                                                 ?
+137BAX L XREF=GH                                                                
+137BA  G 3640                                                                   
+137BA  L 3680.80   171/2-,3/2-                                                  
+137BAX L XREF=FG                                                                
+137BA2 L FLAG=B                                                                 
+137BA  G 1781        13                                                        ?
+137BA  G 2198.3    1218      7                                                  
+137BA  G 3397.25   17100     6                                                  
+137BA  G 3680        12                                                         
+137BA  L 3703.1    105/2-,7/2-                                                 ?
+137BAX L XREF=GH                                                                
+137BA  G 3703                                                                   
+137BA  L 3720.9     41/2,3/2                                                   ?
+137BAX L XREF=FG                                                                
+137BA2 L FLAG=B                                                                 
+137BA  G 1057.4    1233      14                                             @   
+137BA  G 3437.4    4 100     19                                                 
+137BA  G 3721        86                                                         
+137BA  L 3761.1    10                                                          ?
+137BAX L XREF=H                                                                 
+137BA  G 3761                                                                   
+137BA  L 3778.1    10                                                          ?
+137BAX L XREF=GH                                                                
+137BA  G 3778                                                                   
+137BA  L 3798.89   24(1/2-,3/2-)                                                
+137BAX L XREF=FG(3805)H                                                         
+137BA2 L FLAG=B                                                                 
+137BA  G 1527.9    4 69      13                                                 
+137BA  G 3515.2    3 100     13                                                 
+137BA  G 3798.9    5 67      13                                                 
+137BA  L 3822.1    10                                                          ?
+137BAX L XREF=H                                                                 
+137BA  G 3822                                                                   
+137BA  L 3827      205/2-,7/2-                                                 ?
+137BAX L XREF=G                                                                 
+137BA  L 3846.1    10                                                          ?
+137BAX L XREF=H                                                                 
+137BA  G 3846                                                                   
+137BA  L 3850.3     71/2,3/2                                                    
+137BAX L XREF=FH                                                                
+137BA2 L FLAG=B                                                                 
+137BA  G 3567                                                                   
+137BA  G 3850                                                                   
+137BA  L 3857.1    101/2,3/2                                                    
+137BAX L XREF=FH                                                                
+137BA2 L FLAG=B                                                                 
+137BA  G 3857        100                                                        
+137BAF G FL=0.0                                                                 
+137BA  L 3894.1    10                                                          ?
+137BAX L XREF=H                                                                 
+137BA  G 3894                                                                   
+137BA  L 3940.1    10                                                          ?
+137BAX L XREF=H                                                                 
+137BA  G 3940                                                                   
+137BA  L 3963.1    101/2,3/2                                                    
+137BAX L XREF=F                                                                 
+137BA2 L FLAG=B                                                                 
+137BA  G 3963        100                                                        
+137BA  L 3977.1    101/2,3/2                                                    
+137BAX L XREF=F                                                                 
+137BA2 L FLAG=B                                                                 
+137BA  G 3977        100                                                        
+137BA  L 3981.1    10                                                          ?
+137BAX L XREF=H                                                                 
+137BA  G 3981                                                                   
+137BA  L 4149.97   181/2+,3/2                                                   
+137BAX L XREF=F                                                                 
+137BA2 L FLAG=B                                                                 
+137BA  G 747.36    1648      11                                                 
+137BA  G 2856.6    5 67      26                                                 
+137BA  G 3866        63                                                         
+137BA  G 4150.3    6 100     33                                                 
+137BA  L 4206.1    101/2,3/2                                                    
+137BAX L XREF=F                                                                 
+137BA2 L FLAG=B                                                                 
+137BA  G 4206                                                                   
+137BA  L 4216.10   151/2,3/2                                                    
+137BAX L XREF=F                                                                 
+137BA2 L FLAG=B                                                                 
+137BA  G 1553.39   14100                                                        
+137BA  G 4215        30                                                         
+137BA  L 4550.7     71/2,3/2                                                    
+137BAX L XREF=F                                                                 
+137BA2 L FLAG=B                                                                 
+137BA  G 3086.9    7 85                                                         
+137BA  G 4267        100                                                        
+137BA  L 4594.9     71/2,3/2                                                    
+137BAX L XREF=F                                                                 
+137BA2 L FLAG=B                                                                 
+137BA  G 794.3     1343                                                         
+137BAF G FL=3798.89                                                             
+137BA  G 4312        78                                                         
+137BA  G 4595        100                                                        
+137BA  L 4764.4     51/2,3/2                                                    
+137BAX L XREF=F                                                                 
+137BA2 L FLAG=B                                                                 
+137BA  G 2856.6    5 82                                                         
+137BA  G 4482        100                                                        
+                                                                                
+137BA    137CS B- DECAY                1983BE18,1996BI23,1997WAZZ07NDS    200709
+137BA  H TYP=ERR$AUT=J. Tuli$DAT=10-Feb-2008$COM=fixed logft values$            
+137BA  H TYP=ERR$AUT=J. Tuli$DAT=17-Dec-2007$COM=fixed typos noted by PNPI$     
+137BA  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 108,2173 (2007)$             
+137BA2 H CUT=1-Oct-2006$                                                        
+137BA c  Measured: E(|b{+-}) (1983Be18,1978Ch22,1968Wo02,1966Hs02,1958Yo01),    
+137BA2c  shape of the |b spectra (1983Be18,1978Ch22,1978Gr09,1969Sc23,1966Hs02),
+137BA3c  longitudinal polarization of |b (1975Do14), internal bremsstrahlung    
+137BA4c  (1977We04,1975Ba20)                                                    
+137BA c  1996Bi23, 1997WaZZ: measured 283|g, HPGe                               
+137BA cG           1997WaZZ, 1996Bi23 looked for but did not find a transition  
+137BA2cG from the 661 level to the 283.5 level.                                 
+137BA cG           2007Ni04: Measured                                           
+137BA2cG |a(K)exp(127.5 keV E3 in {+134}Cs)/|a(K)exp(661.7 keV M4 in            
+137BAxcG {+137}Cs)=30.01 {I15}                                                  
+137BA cG           2007Ya02: Measured K x-ray ratios obtained in decay vs       
+137BA2cG photo-ionization. Values agreed with previous measurements and theory. 
+137BA3cG Other: 2006Ha36                                                        
+137BA cL J         Adopted values                                               
+137CS  P 0.0         7/2+              30.08 Y   9              1175.63   17    
+137BA  N 1.0                   1.0       1.0                                    
+137BA PN                                                                     3  
+137BA  L 0.0         3/2+                                                       
+137BA  B 1176       15.3      2           12.079 17                             
+137BAS B EAV=416.26 8                                                           
+137BA cB E         from 1966Hs02, 1176 {I3} (1958Yo01), 1176 {I15} (1983Be18)   
+137BA cB IB$from 100-I|b(661 level).                                            
+137BA2cB Others: 5.45 {I1} (1983Be18), 5.3 {I4} (1968Wo02), 5.4 {I3} (1969Ha05),
+137BA3cB 6.0 {I5} (1966Hs02), 7.6 {I8} (1958Yo01)                               
+137BA cB           Shape: |DJ=2(no) (1966Hs02,1969Sc23,1978Gr09)                
+137BA  L 283.50    101/2+                                                       
+137BA  B             0.00058 8             16.61 6                           2U 
+137BA cB IB$from I|g. 2007Se05 have recomputed logf2UT=16.45 {I12},             
+137BA2cB I|b=8.7|*10{+-4} {I20}, superseding their earlier value of 13.5        
+137BAxcB (2006SeZY)                                                             
+137BAS B EAV=334.65 8                                                           
+137BA  G 283.5      15.8E-4  8                                                  
+137BA cG E,RI$E|g from 1997Wa37, %I|g average of 5.3|*10{+-4} {I14} (1996Bi23), 
+137BA2cG 6.1|*10{+-4} {I10} (1997Wa37)                                          
+137BA  L 661.659    311/2-             2.552 M   1                           M  
+137BA cL T$from adopted levels                                                  
+137BA  B 514.03    2394.7     2           9.625   2                          1U 
+137BAS B EAV=174.32 6                                                           
+137BA cB E         from 1983Be18. Others: 513.89 {I26} (1978Ch22),              
+137BA2cB 511.63 {I84} (1968Wo02), 514 {I1} (1966Hs02), 514 {I3} (1958Yo01)      
+137BA cB IB$from I|g. Others: 94.6 {I3} (1968Wo02), 94.0 {I5} (1966Hs02), 92.4  
+137BAxcB {I8} (1958Yo01). I|b=94.6, log| {If{+1u}t}=8.5 (2006SeZY)              
+137BA cB                                                                        
+137BA cB           Shape: |DJ=2(yes)-1U (1983Be18,1978Gr09,1969Sc23,1966Hs02)   
+137BA  G 661.657   3 85.1     2M4                      0.1124                   
+137BAS G KC=0.0915 13$LC=0.01648 23$MC=0.00352 5$NC+=0.000879 13                
+137BAS G NC=0.000759 11$OC=0.0001134 16$PC=7.21E-6 11                           
+137BA cG E$from 1995HeZZ                                                        
+137BA cG RI$recommended by 1991BaZS on the basis of following values:           
+137BA2cG 85.21 {I7} (1983Be18), 84.3 {I5} (1978Gr09), 84.7 {I7} (1978MeZM),     
+137BA2cG 85.1 {I4} (1975Go28), 84.56 {I8} (1973LeZJ), 85.1 {I4} (1969Ha05)      
+137BA cG           Mult.,|a: see {+137}Ba IT decay                              
+                                                                                
+137BA    137BA IT DECAY (2.552 M)                                07NDS    200709
+137BA  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 108,2173 (2007)$             
+137BA2 H CUT=1-Oct-2006$                                                        
+137BA c  Measured: |g, ce, double-decay processes                               
+137BA cL J         Adopted values                                               
+137BA  P 661.659    311/2-             2.552 M   1                              
+137BA  N 1.0         1.0       1.0                                              
+137BA PN                                                                     3  
+137BA  L 0.0         3/2+              STABLE                                   
+137BA  L 661.659    311/2-             2.552 M   1                           M1 
+137BA  G 661.657   3 89.90   14M4                      0.1124   100             
+137BAB G BM4W=2.726 9                                                           
+137BAS G K/T=0.0822 11$L/T=0.01482 21$M/T=0.00317 5$N+/T=0.000791 12            
+137BAS G N/T=0.000682 10$O/T=0.0001020 15$P/T=6.49E-6 10                        
+137BA cG E$from 1995HeZZ                                                        
+137BA cG CC$evaluated by 1991BaZS based on the following values:                
+137BA2cG 0.1083 {I3} (1983Be18), 0.1100 {I3} (1975Go28), 0.1105 {I4} (1973LeZJ),
+137BA3cG 0.1124 {I6} (1969Ha05), 0.1100 {I11} (1965Me03)                        
+137BA cG $|a(K)exp=0.0904 {I5} (1992Ne04). Also |a(K)exp: 0.0900 {I6} from      
+137BA2cG 1992Ne04 given as weighted mean of                                     
+137BA2cG |a(K)exp=0.0901 {I4} (1973LeZJ), 0.0922 {I22} (1973Wi10),              
+137BA3cG 0.0894 {I10} (1965Me03). Others: |a(K)exp=0.0881 {I2} (1983Be18),      
+137BA4cG 0.0888 {I7} (1978Ch22), 0.0916 {I4} (1969Ha05)                         
+137BA cG M         K:L1:L2:L3=1000 {I20}:151 {I4}:22 {I1}:19 {I1} (1962Ge09),   
+137BA2cG K/L=5.29 {I23}, L1:L2:L3=341 {I10}:100:50 {I3} (1967Ka24)              
+137BA cG RI$from I(|g+ce)/(1+|a)                                                
+137BA cG           Double-decay processes: see 1971Lj02, 1971Lj01, 1971Po04,    
+137BAxcG 1969Lj01. Probability ratio of two-ce(K)/one-ce(K)=8|*10{+-5} {I4}     
+137BAxcG (1999Vi15)                                                             
+                                                                                
