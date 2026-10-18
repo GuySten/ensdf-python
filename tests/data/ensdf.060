@@ -1,0 +1,1057 @@
+ 60CO    ADOPTED LEVELS, GAMMAS                                  13NDS    201312
+ 60CO  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1849 (2013)$            
+ 60CO2 H CUT=31-Dec-2012$                                                       
+ 60CO  Q 2822.81   217491.92  7 8274.5338-7163.79 38   2012WA38                 
+ 60CO  XJ59CO(D,P)                                                              
+ 60CO  XG59CO(N,G), (POL N,G) E=TH                                              
+ 60CO  XH59CO(N,G) E=24 KEV                                                     
+ 60CO  XN62NI(D,A), (POL D,A)                                                   
+ 60CO  XF58FE(3HE,P)                                                            
+ 60CO  XC48CA(15N,3NG)                                                          
+ 60CO  XE57FE(A,PG)                                                             
+ 60CO  XD57FE(A,P)                                                              
+ 60CO  XM61NI(D,3HE)                                                            
+ 60CO  XB60CO IT DECAY                                                          
+ 60CO  XA60FE B- DECAY                                                          
+ 60CO  XI59CO(N,G) E=132 EV                                                     
+ 60CO  L 0.0         5+                1925.28 D 14                             
+ 60COX L XREF=ABCDEFGHJMN                                                       
+ 60CO2 L MOMM1=+3.799 8 $ MOME2=+0.44 5 $ %B-=100                               
+ 60CO  L 58.59      1 2+               10.467 M  6                           M  
+ 60COX L XREF=ABCEFGHJMN                                                        
+ 60CO2 L MOMM1=+4.40 9 $ MOME2=+0.3 4 $                                         
+ 60CO3 L %IT=99.75 3$ %B-=0.25 3 (1963Sc14)                                     
+ 60CO  G 58.603    7  100      M3+(E4)   0.02    LT    47.3                 F   
+ 60COB G BM3W=3.9$                                                              
+ 60COS G KC=39.4 6$LC=6.86 12$MC=0.966 16$NC+=0.0310 5                          
+ 60COS G NC=0.0310 5                                                            
+ 60COS G N/T=0.000641 13                                                        
+ 60CO  L 277.20    2  4+                                                        
+ 60COX L XREF=CEGHJN                                                            
+ 60CO  G  277.08    3 100      (M1+E2)                                          
+ 60COS G CC=0.007 5$KC=0.006 4$LC=0.0006 4$MC=9.E-5 6$NC+=3.8E-6 22             
+ 60COS G NC=3.8E-6 22                                                           
+ 60CO  L 288.40    2  3+                                                        
+ 60COX L XREF=CEFGHJMN                                                          
+ 60CO  G 229.72    4  100      (M1+E2)                 0.014  9                 
+ 60COS G KC=0.012 8$LC=0.0012 8$MC=0.00017 12$NC+=7.E-6 5                       
+ 60COS G NC=7.E-6 5                                                             
+ 60CO  L 435.71     4 5+                                                        
+ 60COX L XREF=CEFGHJMN                                                          
+ 60CO  G 158.46    5  100.0  7 (M1+E2)                 0.05   4                 
+ 60COS G KC=0.05 4$LC=0.005 4$MC=0.0007 5$NC+=2.7E-5 20                         
+ 60COS G NC=2.7E-5 20                                                           
+ 60CO  G  435.71    5 64.0   13(M1+E2)                                          
+ 60COS G CC=0.0017 7$KC=0.0015 6$LC=0.00015 6$MC=2.1E-5 8$NC+=9.E-7 4           
+ 60COS G NC=9.E-7 4                                                             
+ 60CO  L 506.20     3 3+                                                        
+ 60COX L XREF=CEFGHJMN                                                          
+ 60CO  G  217.88   20 0.53   5                                                  
+ 60CO  G  447.68    9 100.0  13(M1+E2)                                          
+ 60COS G CC=0.0016 6$KC=0.0014 6$LC=0.00014 6$MC=1.9E-5 8$NC+=8.E-7 3           
+ 60COS G NC=8.E-7 3                                                             
+ 60CO  L 542.82    2  2+                                                        
+ 60COX L XREF=CEFGHJMN                                                          
+ 60CO  G  254.23    5 100.0  19(M1+E2)                                          
+ 60COS G CC=0.010 6$KC=0.009 6$LC=0.0009 6$MC=0.00012 8$NC+=5.E-6 3             
+ 60COS G NC=5.E-6 3                                                             
+ 60CO  G  484.21    3 61.5   7                                                  
+ 60CO  L 614.55    2  3+                                                        
+ 60COX L XREF=EFGHJMN                                                           
+ 60CO  G  337.32    7 3.68   10                                                 
+ 60CO  G  555.969  12 100.0  9 (M1+E2)                                          
+ 60COS G CC=0.00084 24$KC=0.00076 22$LC=7.4E-5 21$MC=1.0E-5 3$NC+=4.5E-7 13     
+ 60COS G NC=4.5E-7 13                                                           
+ 60CO  L 738.80    2  1+                                                        
+ 60COX L XREF=EFGJN                                                             
+ 60CO  G  195.84    5 70.7   11                                                 
+ 60CO  G  680.210  13 100.0  16                                                 
+ 60CO  L 785.71     1 4+               3.2 PS    LT                             
+ 60COX L XREF=CEFGHJMN                                                          
+ 60CO  G  171.3     3 2.3    4                                                  
+ 60CO  G  349.87    8 4.33   14                                                 
+ 60CO  G  497.275  18 83.7   6 (M1+E2)                                          
+ 60COS G CC=0.0012 4$KC=0.0010 4$LC=0.00010 4$MC=1.4E-5 5$NC+=6.2E-7 20         
+ 60COS G NC=6.2E-7 20                                                           
+ 60CO  G  785.724  10 100.0  14(M1+E2)                                      A   
+ 60COS G CC=0.00035 6$KC=0.00031 5$LC=3.0E-5 5$MC=4.2E-6 7$NC+=1.9E-7 3         
+ 60COS G NC=1.9E-7 3                                                            
+ 60CO  L 940       30                                                          ?
+ 60COX L XREF=D                                                                 
+ 60CO  L 1003.91   2  (3,4)                                                     
+ 60COX L XREF=EGHJ(*)N(*)                                                       
+ 60CO  G  461.04    3 52.6   4                                                  
+ 60CO  G  715.38    8 4.8    4                                                  
+ 60CO  G  726.709  13 48.2   7                                                  
+ 60CO  G  945.321  17 100    2                                                  
+ 60CO  L 1005.80   2  4                                                         
+ 60COX L XREF=FGHJ(*)MN(*)                                                      
+ 60CO  G  220.00   11 3.58   14                                                 
+ 60CO  G  391.221  21 100.0  7 D+Q                                              
+ 60CO  G  717.415  10 78.3   10                                                 
+ 60CO  G  1005.69   4 12.3   5                                                  
+ 60CO  L 1131.98   19                                                           
+ 60COX L XREF=GJN                                                               
+ 60CO  G  393.18   19 100                                                       
+ 60CO  L 1150.70    5 (2+,3+)                                                   
+ 60COX L XREF=FGHJ                                                              
+ 60CO  G  862.30    4 100                                                       
+ 60CO  L 1207.83   3  5+                                                        
+ 60COX L XREF=EGHJ                                                              
+ 60CO  G  930.614  17 100.0  18                                                 
+ 60CO  G  1207.96   7 40     4                                                  
+ 60CO  L 1216.45   18 6+               0.28 PS   +21-14                     I   
+ 60COX L XREF=CFGJN                                                             
+ 60CO  G  779.91   16 35     7                                              G  ?
+ 60CO2 G FL=435.71                                                              
+ 60CO  G  1216.44  18 100                                                       
+ 60CO  L 1216.85    3 4                                                         
+ 60COX L XREF=EGHN                                                              
+ 60CO  G  710.648  10 100.0  13                                                 
+ 60CO  G  928.42    3 23.8   7                                                  
+ 60CO  L 1341.86   3  3+                                                        
+ 60COX L XREF=FGHJ                                                              
+ 60CO  G  799.03    3 54.0   15                                                 
+ 60CO  G  1283.27   3 100    3                                                  
+ 60CO  G  1341.2    3 6.7    19                                                 
+ 60CO  L 1379.74    6 6+               0.7 PS    3                          I   
+ 60COX L XREF=CFGJ(*)N                                                          
+ 60CO  G  172.1     4 19     6                                                  
+ 60CO  G  944.05    5 100    6                                                  
+ 60CO  L 1380.97    4 3+                                                        
+ 60COX L XREF=GHJ(*)N                                                           
+ 60CO  G  1103.76   3 100                                                       
+ 60CO  L 1451.21    3 4+                                                        
+ 60COX L XREF=JGH                                                               
+ 60CO  G  665.52    4 71     3                                                  
+ 60CO  G  908.37    3 100    4                                                  
+ 60CO  L 1508.30    9 2+,3+                                                     
+ 60COX L XREF=FGJN(*)                                                           
+ 60CO  G  1002.09   8 100                                                       
+ 60CO  L 1510      107+                                                     I   
+ 60COX L XREF=N                                                                 
+ 60CO  L 1515.80   3  4+                                                        
+ 60COX L XREF=HJ(*)                                                             
+ 60CO  G  901.282  15 17.1   3                                                  
+ 60CO  G  1238.561 22 12.0   3                                                  
+ 60CO  G  1515.748 14 100    3                                                  
+ 60CO  L 1565.94   3  2                                                         
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  224.1     3 14.9   21                                                 
+ 60CO  G  1277.49   3 28.2   9                                                  
+ 60CO  G  1507.348 23 100    3                                                  
+ 60CO  L 1639.84   3  3+,4+,5+                                                  
+ 60COX L XREF=GHJN                                                              
+ 60CO  G  854.147  22 100.0  23                                                 
+ 60CO  G  1362.49   6 43.6   23                                                 
+ 60CO  L 1669      AP                                                          ?
+ 60COX L XREF=J                                                                 
+ 60CO  L 1686.21    5 1+                                                        
+ 60COX L XREF=FG                                                                
+ 60CO  G  947.41    4 100                                                       
+ 60CO  L 1709.68   13                                                           
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  1651.05  13 100                                                       
+ 60CO  L 1749.29   3  3+                                                        
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  963.57    3 54.2   17                                                 
+ 60CO  G  1206.66  12 34     5                                                  
+ 60CO  G  1472.01   3 94     3                                                  
+ 60CO  G  1690.74   4 100    5                                                  
+ 60CO  L 1787.62    4 5(+)                                                      
+ 60COX L XREF=GHJN                                                              
+ 60CO  G  781.81    3 100    3                                                  
+ 60CO  G  1787.4    3 43     15                                                 
+ 60CO  L 1800.22   15 (6)-             1.7 PS    +14-6                          
+ 60COX L XREF=CF(*)GJ                                                           
+ 60CO  G  420.86   19 1.1    11                                             G   
+ 60CO  G  584.43   10 6.5    22                                             G   
+ 60CO2 G  FL=1216.45                                                            
+ 60CO  G  1799.70  22 100.0  22[E1]                                         G   
+ 60COB G BE1W=0.41E-4 24                                                        
+ 60COS G CC=0.000525 8$KC=3.11E-5 5$LC=2.97E-6 5$MC=4.14E-7 6$NC+=0.000491 7    
+ 60COS G NC=1.86E-8 3$IPC=0.000491 7                                            
+ 60CO  L 1808.63   15 4-                                                        
+ 60COX L XREF=F(*)GHJ                                                           
+ 60CO  G  1808.37  18 100                                                       
+ 60CO  L 1830.80   2  4+                                                        
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  1553.68   6 7.1    4                                                  
+ 60CO  G  1830.763 21 100    4                                                  
+ 60CO  L 1833.23    4                                                           
+ 60COX L XREF=G                                                                 
+ 60CO  G  1774.62   3 100                                                       
+ 60CO  L 1852.71   4  4+                                                        
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  1852.678 25 100                                                       
+ 60CO  L 1877.15    5 2                                                         
+ 60COX L XREF=F(*)GHN(*)                                                        
+ 60CO  G  1262.56  10 17.2   14                                                 
+ 60CO  G  1818.54   5 100    6                                                  
+ 60CO  L 1888.90    4 4+                                                        
+ 60COX L XREF=F(*)GHJN(*)                                                       
+ 60CO  G  883.20    5 36.5   18                                                 
+ 60CO  G  1274.26   3 100    3                                                  
+ 60CO  G  1889.04   8 50     4                                                  
+ 60CO  L 1924.29   21 +                                                         
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  1647.06  21 100                                                       
+ 60CO  L 1981.20    5 4                                                         
+ 60COX L XREF=FGHJN(*)                                                          
+ 60CO  G  1692.78   4 100                                                       
+ 60CO  L 1983.52   16                                                           
+ 60COX L XREF=GHN(*)                                                            
+ 60CO  G  174.91    5 100                                                       
+ 60CO  L 2032.71   11 2+,3+                                                     
+ 60COX L XREF=FGHJ                                                              
+ 60CO  G  824.88   10 100                                                       
+ 60CO  L 2045.42   11                                                           
+ 60COX L XREF=GHJN                                                              
+ 60CO  G  837.62   14 53     7                                                  
+ 60CO  G  1539.16  17 100    13                                                 
+ 60CO  L 2080.77   11                                                           
+ 60COX L XREF=GN                                                                
+ 60CO  G  2022.15  11 100                                                       
+ 60CO  L 2121.82    5 3(+),4(+)                                                 
+ 60COX L XREF=GHJN(*)                                                           
+ 60CO  G  1117.92   5 100    5                                                  
+ 60CO  G  2121.3    3 27     6                                                  
+ 60CO  L 2132.23   23 (7-)             0.49 PS   LT                             
+ 60COX L XREF=CJN(*)                                                            
+ 60CO  G  332.54      100    6                                              E   
+ 60COF G FL=1800.22                                                             
+ 60CO3 G FLAG=G$                                                                
+ 60CO  G  916.44   14 22     6                                              G   
+ 60CO  L 2133.44    7 3,4                                                       
+ 60COX L XREF=GHN(*)                                                            
+ 60CO  G  1844.98   9 70     5                                                  
+ 60CO  G  2074.84   9 100    6                                                  
+ 60CO  L 2151.9     3                                                           
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  1146.1    3 100                                                       
+ 60CO  L 2183.10    6 2+,3+                                                     
+ 60COX L XREF=FGH                                                               
+ 60CO  G  617.15    5 100                                                       
+ 60CO  L 2199.9     3                                                           
+ 60COX L XREF=GHJ                                                               
+ 60CO  L 2221.56    9 4+                                                        
+ 60COX L XREF=FGHJN                                                             
+ 60CO  G  1215.79  14 9E+1   4                                                  
+ 60CO  G  2221.49  10 1.0E+2 1                                                  
+ 60CO  L 2230.44   10                                                           
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  2171.65  11 100                                                       
+ 60CO  L 2274.67   16                                                           
+ 60COX L XREF=DGHJN(*)                                                          
+ 60CO  G  1986.24  16 100                                                       
+ 60CO  L 2279.94   20 5+                                                        
+ 60COX L XREF=GHJN(*)                                                           
+ 60CO  G  2279.89  20 100                                                       
+ 60CO  L 2310.15    6 3                                                         
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  2032.91   4 100                                                       
+ 60CO  L 2318.4    10                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 2324.3     4                                                           
+ 60COX L XREF=GH                                                                
+ 60CO  G  2265.7    4 100                                                       
+ 60CO  L 2341.82    8                                                           
+ 60COX L XREF=GHJN(*)                                                           
+ 60CO  G  1556.09   8 100                                                       
+ 60CO  L 2351.87    9                                                           
+ 60COX L XREF=GHJN(*)                                                           
+ 60CO  G  1134.75  13 26     3                                                  
+ 60CO  G  1809.53  24 1.0E+2 4                                                  
+ 60CO  L 2363.96    9                                                       H   
+ 60COX L XREF=GHJ                                                               
+ 60CO  L 2423.28   10 4                                                         
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  1419.35   7 100                                                       
+ 60CO  L 2430.97   10 3-,4-                                                     
+ 60COX L XREF=FGHJ                                                              
+ 60CO  G  297.55    8 100    3                                                  
+ 60CO  G  2430.85  24 57     8                                                  
+ 60CO  L 2450.87   15 3,4                                                       
+ 60COX L XREF=GHJN                                                              
+ 60CO  G  370.09   10 100                                                       
+ 60CO  L 2469.72   24                                                           
+ 60COX L XREF=GJ                                                                
+ 60CO  G  2469.6    3 100                                                       
+ 60CO  L 2488.71    9 5                                                         
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  1271.91  10 81     7                                                  
+ 60CO2 G  FL=1216.85                                                            
+ 60CO  G  1982.34  17 96     11                                                 
+ 60CO  G  2210.8    7 28     12                                                 
+ 60CO  G  2488.59  21 100    12                                                 
+ 60CO  L 2529.00   15                                                           
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  728.753  23 100    3                                                  
+ 60CO  G  2240.5    8 11     5                                                  
+ 60CO  L 2546       3                                                           
+ 60COX L XREF=G                                                                 
+ 60CO  L 2560.0     3                                                           
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  2501.3    3 100                                                       
+ 60CO  L 2569.96    7 4                                                         
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  2063.82  11 39     3                                                  
+ 60CO  G  2281.75  15 79     10                                                 
+ 60CO  G  2569.68  11 100    6                                                  
+ 60CO  L 2585.73    7                                                           
+ 60COX L XREF=GHJN(*)                                                           
+ 60CO  G  233.89   11 14.8   7                                                  
+ 60CO  G  1069.92  11 20.2   20                                                 
+ 60CO  G  2527.04  11 100    7                                                  
+ 60CO  L 2598.07   11 3+                                                        
+ 60COX L XREF=FGHJN(*)                                                          
+ 60CO  G  2309.63  11 100                                                       
+ 60CO  L 2607.58   13                                                           
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  2607.52  13 100                                                       
+ 60CO  L 2622.07   15                                                           
+ 60COX L XREF=GH                                                                
+ 60CO  G  589.35   11 100                                                       
+ 60CO  L 2655.71   19                                                           
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  1504.99  18 100                                                       
+ 60CO  L 2685.35   22 3-,4-                                                     
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  2249.71  22 100                                                       
+ 60CO  L 2709.97   20 2,3,4                                                     
+ 60COX L XREF=GHJN(*)                                                           
+ 60CO  G  2203.73  19 100                                                       
+ 60CO  L 2718.80   16 1                                                         
+ 60COX L XREF=FGN(*)                                                            
+ 60CO  L 2734.5     8                                                           
+ 60COX L XREF=GJ                                                                
+ 60CO  L 2760.9     5                                                           
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  2472.4    5 100                                                       
+ 60CO  L 2768.13   25                                                           
+ 60COX L XREF=GHJN                                                              
+ 60CO  G  2262.4    4 72     14                                                 
+ 60CO  G  2768.4    5 100    17                                                 
+ 60CO  L 2771.35   24                                                           
+ 60COX L XREF=GJ                                                                
+ 60CO  G  1639.35  14 100                                                       
+ 60CO  L 2785.77   15 3,4                                                       
+ 60COX L XREF=GJ                                                                
+ 60CO  G  2727.11  15 100                                                       
+ 60CO  L 2801.6     3                                                           
+ 60COX L XREF=GJ                                                                
+ 60CO  G  2801.7    4 100                                                       
+ 60CO  L 2809.7     4                                                           
+ 60COX L XREF=GJ                                                                
+ 60CO  L 2823.2     5 (8)-             0.42 PS   LT                             
+ 60COX L XREF=CHJ                                                               
+ 60CO  G  691.0     4 100                                                   G   
+ 60CO  L 2825.60   11 3-,4-                                                     
+ 60COX L XREF=G                                                                 
+ 60CO  G  2319.36  10 100                                                       
+ 60CO  L 2845.03   14                                                           
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  1158.85  15 45     6                                                  
+ 60CO  G  2338.6    3 100    17                                                 
+ 60CO  L 2867.57   12                                                           
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  2128.71  14 1.0E+2 1                                                  
+ 60CO  G  2361.38  22 82     11                                                 
+ 60CO  L 2884      10 5+                                                        
+ 60COX L XREF=N                                                                 
+ 60CO  L 2884.92    8 3-,4-                                                     
+ 60COX L XREF=GHJN                                                              
+ 60CO  G  2099.21   7 100    6                                                  
+ 60CO  G  2884.43  24 87     8                                                  
+ 60CO  L 2897.4     8                                                          ?
+ 60COX L XREF=J                                                                 
+ 60CO  L 2901.81    9                                                           
+ 60COX L XREF=GH                                                                
+ 60CO  G  779.98    7 100                                                       
+ 60CO  L 2917.6     8                                                          ?
+ 60COX L XREF=J                                                                 
+ 60CO  L 2920.4     4                                                           
+ 60COX L XREF=GH                                                                
+ 60CO  G  2632.1    4 75     16                                                 
+ 60CO  G  2861.2    7 100    23                                                 
+ 60CO  L 2936.48   14                                                           
+ 60COX L XREF=G                                                                 
+ 60CO  G  1226.79   4 100                                                       
+ 60CO  L 2939.2     9                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 2944.2    3                                                            
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  744.27    6 100                                                       
+ 60CO  L 2963.09   11                                                           
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  532.11    4 100                                                       
+ 60CO  L 2996.9     3                                                           
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  2454.0    3 100                                                       
+ 60CO  L 3010.1     3                                                           
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  1176.9    3 100                                                       
+ 60CO  L 3022.28    9 3,4                                                       
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  1382.41   7 100    6                                                  
+ 60CO  G  2745.7    9 51     13                                                 
+ 60CO  L 3047.5     6                                                           
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  2759.0    6 100                                                       
+ 60CO  L 3064.8     3                                                           
+ 60COX L XREF=GJ                                                                
+ 60CO  G  2628.7    5 70     12                                                 
+ 60CO  G  3006.2    3 100    11                                                 
+ 60CO  L 3077.06   25                                                           
+ 60COX L XREF=GJ                                                                
+ 60CO  G  2641.29  24 100                                                       
+ 60CO  L 3084.6     4                                                           
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  3084.8    6 100                                                       
+ 60CO  L 3096.35    9                                                           
+ 60COX L XREF=GJ                                                                
+ 60CO  G  2357.51   8 100                                                       
+ 60CO  L 3108      10 7+                                                    I   
+ 60COX L XREF=N                                                                 
+ 60CO  L 3114.1     6 3,4                                                       
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  2836.8    6 100                                                       
+ 60CO  L 3121.4     4                                                           
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  2831.7   13 44     19                                                 
+ 60CO  G  3121.4    4 100    12                                                 
+ 60CO  L 3132.2     3                                                           
+ 60COX L XREF=GJ                                                                
+ 60CO  G  2346.4    6 100                                                       
+ 60CO  L 3141.47   13                                                           
+ 60COX L XREF=GH                                                                
+ 60CO  G  1924.59  12 100                                                       
+ 60CO2 G  FL=1216.85                                                            
+ 60CO  L 3155.49   19                                                           
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  2866.4    7 42     11                                                 
+ 60CO  G  3096.92  20 100    7                                                  
+ 60CO  G  3154.1   10 23     7                                                  
+ 60CO  L 3162.7     3                                                           
+ 60COX L XREF=GH                                                                
+ 60CO  G  602.711  25 100                                                       
+ 60CO  L 3186.6     4 3-,4-                                                     
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  3127.9    4 100                                                       
+ 60CO  L 3191.00    8                                                           
+ 60COX L XREF=GH                                                                
+ 60CO  G  827.03    7 100                                                       
+ 60CO  L 3199.3     9                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 3203.22   13                                                           
+ 60COX L XREF=GJN(*)                                                            
+ 60CO  G  972.50   15 56     3                                                  
+ 60CO  G  2926.31  17 100    8                                                  
+ 60CO  L 3216.24   18                                                           
+ 60COX L XREF=GN(*)                                                             
+ 60CO  G  3216.15  18 100                                                       
+ 60CO  L 3238.5     3                                                           
+ 60COX L XREF=G                                                                 
+ 60CO  L 3265      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 3279.46   13                                                           
+ 60COX L XREF=GH                                                                
+ 60CO  G  1246.74   8 100                                                       
+ 60CO  L 3283.81   17 3,4                                                       
+ 60COX L XREF=GHJN                                                              
+ 60CO  G  2777.5    3 73     8                                                  
+ 60CO  G  2995.30  22 95     8                                                  
+ 60CO  G  3284.0    5 100    15                                                 
+ 60CO  L 3314      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 3336.48   24                                                           
+ 60COX L XREF=GH                                                                
+ 60CO  G  2899.8    4 85     11                                                 
+ 60CO  G  3048.5    3 1.0E+2 1                                                  
+ 60CO  L 3343.26   18                                                           
+ 60COX L XREF=GHN                                                               
+ 60CO  G  2557.49  18 100                                                       
+ 60CO  L 3367      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 3393      AP 3-,4-                                                     
+ 60COX L XREF=J                                                                 
+ 60CO  L 3415.51   12                                                           
+ 60COX L XREF=GHJN                                                              
+ 60CO  G  1334.72   5 100                                                       
+ 60CO  L 3436      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 3460.4     3                                                           
+ 60COX L XREF=FGHJ                                                              
+ 60CO  G  3401.7    3 100                                                       
+ 60CO  L 3465.53   21                                                           
+ 60COX L XREF=GH                                                                
+ 60CO  G  1677.89  20 100                                                       
+ 60CO  L 3469      10 7+                                                    I   
+ 60COX L XREF=N                                                                 
+ 60CO  L 3496.94   24                                                           
+ 60COX L XREF=DGHJ                                                              
+ 60CO  L 3514.79   23                                                           
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  829.45    8 100    8                                                  
+ 60CO  G  3513.6    7 61     14                                                 
+ 60CO  L 3529      10                                                       C   
+ 60COX L XREF=FN                                                                
+ 60CO  L 3560      20 5+                                                        
+ 60COX L XREF=N                                                                 
+ 60CO  L 3562.09   24                                                           
+ 60COX L XREF=GJN                                                               
+ 60CO  G  1092.347 22 100.0  24                                                 
+ 60CO  G  3503.7    4 13.6   18                                                 
+ 60CO  L 3588.98   13 3-,4-                                                     
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  1839.66  11 100                                                       
+ 60CO  L 3594.92   22                                                           
+ 60COX L XREF=FGH                                                               
+ 60CO  G  1612.3    3 17     4                                                  
+ 60CO  G  1785.94  18 100    19                                                 
+ 60CO  L 3622      AP 3-,4-                                                     
+ 60COX L XREF=J                                                                 
+ 60CO  L 3646.6     5 (9)              0.35 PS   LT                             
+ 60COX L XREF=C                                                                 
+ 60CO  G  823.33   20 100                                                   G   
+ 60CO  L 3650.4     4                                                           
+ 60COX L XREF=F(*)GJ                                                            
+ 60CO  G  2434.5    3 100                                                       
+ 60CO  L 3674      10 7+                                                    C   
+ 60COX L XREF=F(*)JN$FLAG=I                                                     
+ 60CO  L 3690.5     7 (9)              0.28 PS   LT                             
+ 60COX L XREF=CJ                                                                
+ 60CO  G  867.3     5 100                                                   G   
+ 60CO  L 3696.9     4                                                           
+ 60COX L XREF=GJ                                                                
+ 60CO  G  1544.99  12 100                                                       
+ 60CO  L 3721      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 3742.44   16                                                           
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  1023.636 24 100.0  24                                                 
+ 60CO  G  1542.51  25 16     3                                                  
+ 60CO  G  1910.4    4 11     3                                                  
+ 60CO  G  1933.72   8 57     4                                                  
+ 60CO  G  3454.0    3 47     4                                                  
+ 60CO  L 3780      20 7+                                                    C   
+ 60COX L XREF=JN$FLAG=I                                                         
+ 60CO  L 3797.98   17                                                           
+ 60COX L XREF=GJ                                                                
+ 60CO  G  2158.12  17 100    11                                                 
+ 60CO  G  3290.3   13 47     13                                                 
+ 60CO  L 3827.6     3                                                           
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  1059.50  10 68     6                                                  
+ 60CO  G  3320.6    4 100    13                                                 
+ 60CO  L 3841.2     6 (9)              0.35 PS   LT                             
+ 60COX L XREF=CJ                                                                
+ 60CO  G  1017.94     100                                                   E   
+ 60CO3 G FLAG=G$                                                                
+ 60CO  L 3871.1     6 3-,4-                                                     
+ 60COX L XREF=DGJ                                                               
+ 60CO  G  3328.2    6 100                                                       
+ 60CO  L 3914.8     8                                                           
+ 60COX L XREF=GH                                                                
+ 60CO  G  3407.9    9 100    25                                                 
+ 60CO  G  3639.6   17 39     19                                                 
+ 60CO  L 3928.0     9                                                           
+ 60COX L XREF=GJ                                                                
+ 60CO  G  2720.1    9 100                                                       
+ 60CO  L 3949      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 3987      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 4005      AP 3-,4-                                                    ?
+ 60COX L XREF=J                                                                 
+ 60CO  L 4012.16   16 3,4                                                       
+ 60COX L XREF=G                                                                 
+ 60CO  G  1075.67   7 100                                                       
+ 60CO  L 4024      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 4040      30 7+                                                    C   
+ 60COX L XREF=N$FLAG=I                                                          
+ 60CO  L 4049      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 4067      AP 3-,4-                                                     
+ 60COX L XREF=J                                                                 
+ 60CO  L 4085      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 4100.97   21                                                           
+ 60COX L XREF=G                                                                 
+ 60CO  G  968.74   22 21     5                                                  
+ 60CO  G  3823.54  23 100    7                                                  
+ 60CO  G  4043.6    8 26     6                                                  
+ 60CO  L 4112.5     4                                                           
+ 60COX L XREF=GHJ                                                               
+ 60CO  G  4112.3    4 100                                                       
+ 60CO  L 4134      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 4156.57   18 3-,4-                                                 H   
+ 60COX L XREF=GJ                                                                
+ 60CO  L 4166      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 4194.0     4                                                           
+ 60COX L XREF=GJ                                                                
+ 60CO  G  3651.1    5 73     12                                                 
+ 60CO  G  3758.1    5 100    14                                                 
+ 60CO  L 4206      AP                                                          ?
+ 60COX L XREF=J                                                                 
+ 60CO  L 4212.8     7 3,4                                                       
+ 60COX L XREF=G                                                                 
+ 60CO  G  3669.9    7 100                                                       
+ 60CO  L 4253.9     3                                                           
+ 60COX L XREF=GJ                                                                
+ 60CO  G  3248.0    3 100                                                       
+ 60CO  L 4270.02   24 3-,4-                                                     
+ 60COX L XREF=GJ                                                                
+ 60CO  G  2482.35  23 100                                                       
+ 60CO  L 4277.0     6 (10)             0.1 PS    6                              
+ 60COX L XREF=CN                                                                
+ 60CO  G  435.76   20 12     4                                              G   
+ 60CO  G  630.37   10 100    4                                              G   
+ 60CO  L 4280      30                                                           
+ 60COX L XREF=N                                                                 
+ 60CO  L 4292.05   12                                                           
+ 60COX L XREF=JG                                                                
+ 60CO  G  1195.69   8 38.7   25                                                 
+ 60CO  G  3677.38  25 100    7                                                  
+ 60CO  L 4297.8     4                                                           
+ 60COX L XREF=G                                                                 
+ 60CO  G  2789.4    4 100                                                       
+ 60CO  L 4307      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 4325      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 4341      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 4365      AP 3-,4-                                                 B   
+ 60COX L XREF=FJ                                                                
+ 60CO  L 4390      AP 3-,4-                                                     
+ 60COX L XREF=J                                                                 
+ 60CO  L 4408      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 4420      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 4452      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 4485      10                                                       D   
+ 60COX L XREF=FJ                                                                
+ 60CO  L 4507      AP                                                       J  ?
+ 60COX L XREF=J                                                                 
+ 60CO  L 4514.0     4                                                           
+ 60COX L XREF=G                                                                 
+ 60CO  G  1429.31  14 55     6                                                  
+ 60CO  G  1704.21   7 100    6                                                  
+ 60CO  G  2661.1    4 36     7                                                  
+ 60CO  L 4523      AP                                                       J  ?
+ 60COX L XREF=J                                                                 
+ 60CO  L 4540.7    12                                                           
+ 60COX L XREF=DJ                                                                
+ 60CO  G  3997.7   12 100                                                       
+ 60CO  L 4550      30 7+                                                    I   
+ 60COX L XREF=N                                                                 
+ 60CO  L 4563      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 4594      AP                                                       B  ?
+ 60COX L XREF=GJ                                                                
+ 60COF L FLAG=K                                                                 
+ 60CO  L 4600.97   17                                                           
+ 60COX L XREF=G                                                                 
+ 60CO  G  3815.06  17 100    6                                                  
+ 60CO  G  4312.8    4 47     6                                                  
+ 60CO  L 4610      AP                                                       B  ?
+ 60COX L XREF=FJ                                                                
+ 60COF L FLAG=K                                                                 
+ 60CO  L 4626      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 4668      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 4698      AP 3-,4-                                                 B   
+ 60COX L XREF=J                                                                 
+ 60CO  L 4700      30 7+                                                    I   
+ 60COX L XREF=N                                                                 
+ 60CO  L 4713      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 4752.33   12                                                           
+ 60COX L XREF=GJ                                                                
+ 60CO  G  2399.6    3 19.0   25                                                 
+ 60CO  G  3966.60  11 100    5                                                  
+ 60CO  G  4245.3    9 5.9    15                                                 
+ 60CO  L 4773      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 4786      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 4800      30 7+                                                    I   
+ 60COX L XREF=N                                                                 
+ 60CO  L 4800.1     3 3-,4-                                                     
+ 60COX L XREF=GJ                                                                
+ 60CO  G  1998.48  14 1.0E+2 1                                                  
+ 60CO  G  3349.2    6 44     8                                                  
+ 60CO  G  4799.5    4 40     5                                                  
+ 60CO  L 4811.3     5                                                           
+ 60COX L XREF=GJ                                                                
+ 60CO  G  3302.9    5 100                                                       
+ 60CO  L 4827.5     7 (11)             0.28 PS   LT                             
+ 60COX L XREF=C                                                                 
+ 60CO  G  550.5     4 100                                                   G   
+ 60CO  L 4841      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 4864      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 4874.2     9                                                           
+ 60COX L XREF=GJ                                                                
+ 60CO  G  3493.1    9 100                                                       
+ 60COF G FL=1380.97                                                             
+ 60CO  L 4893      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 4917      AP 3-,4-                                                     
+ 60COX L XREF=J                                                                 
+ 60CO  L 4932      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 4965      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 4980      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 4995      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5014      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5031      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5057      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5083      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5098      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5113      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5133      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5146      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5160.8     6 (11)             0.28 PS   LT                             
+ 60COX L XREF=CJ                                                                
+ 60CO  G  883.79   11 100                                                   G   
+ 60CO  L 5189      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5202      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5243      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5271      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5291      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5306      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5326      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5350      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5372      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5394      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5411      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5424      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5440      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5456      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5471      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5488      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5529      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5545      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5560      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5575.6     8                  0.14 PS   LT                             
+ 60COX L XREF=CJ                                                                
+ 60CO  G  748.1     3 100                                                   G   
+ 60CO  L 5591      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5610      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5638      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5655      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5670      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5684      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5705      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5731      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5750      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5773      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5809      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5822      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5838      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5852      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5871      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5889      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5928      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5943      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5955      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5973      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5987      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 5999      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 6013      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 6027      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 6047      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 6066      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 6088      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 6104      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 6129      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 6146      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 6165      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 6180      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 6198      AP                                                           
+ 60COX L XREF=J                                                                 
+ 60CO  L 6417       1 (12)             0.14 PS   LT                             
+ 60COX L XREF=C                                                                 
+ 60CO  G  1256.2    8 100                                                   G   
+ 60CO  L 7.05E+3    5                                                           
+ 60COX L XREF=D                                                                 
+ 60CO  L 7491.92    8 3-,4-                                                 L  S
+ 60COX L XREF=G                                                                 
+ 60CO  L 7514      AP                                                       M   
+ 60COX L XREF=H                                                                 
+ 60CO  L 7.79E+3    4                                                           
+ 60COX L XREF=D                                                                 
+ 60CO  L 8122.4    17 (13)             0.35 PS   LT                             
+ 60COX L XREF=C                                                                 
+ 60CO  G  2546.8   15 100                                                   G   
+ 60CO  L 8.69E+3   15                                                           
+ 60COX L XREF=D                                                                 
+                                                                                
+ 60CO    60CO IT DECAY                 1963SC14,1962HA46         13NDS    201312
+ 60CO  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1849 (2013)$            
+ 60CO2 H CUT=31-Dec-2012$                                                       
+ 60CO DG CC$ FROM BrIcc v2.2 (31-Mar-2008) 2008KiAA, "Frozen Orbitals" appr.    
+ 60CO c  Measured E|g, I|g, ce, T{-1/2}. Scintillation spectrometer (1963Sc14). 
+ 60CO c  Measured E|g. Crystal diffraction spectrometer (1962Ha46).             
+ 60CO c  Measured T{-1/2} of the 59 keV level (1990Ab02)                        
+ 60CO c  Others: 1970Ca19, 1971Pl02, and 1989Mu15.                              
+ 60CO c  See 1973Ha69 for compilation of additional measurements.               
+ 60CO c  All decay intensities are from 1963Sc14.                               
+ 60CO  P 58.603    7 2+                10.467 M  6                              
+ 60CO  N 0.0207    3 1.0       0.9975  3                                        
+ 60CO PN 0.0207    3 1.0                                                     3  
+ 60CO cN NR$I(|g+ce)(58.603|g)=99.75 {I3}                                       
+ 60CO cN BR        from 1963Sc14, branching to {+60}Ni 1332-keV level is 0.24%  
+ 60COxcN {i3}, and to the 2159-keV level is 8.6|*10{+-3}% {12}.                 
+ 60CO  L 0.0         5+                5.2712 Y  4                              
+ 60CO  L 58.603    7 2+                10.467 M  6                           M  
+ 60CO cL T         from 1990Ab02                                                
+ 60CO  G 58.603    7  100      M3+(E4)   0.02    LT    47.3     99.75     3     
+ 60CO cG           %I|g=2.07 {I3}                                               
+ 60COS G K/T=0.817 7$L/T=0.142 3$M/T=0.0200 5$N+/T=0.000641 13                  
+ 60COS G N/T=0.000641 13                                                        
+ 60CO cG           |a(K)=39.3, |a(L)=6.80, |a(M+..)=1.0                         
+ 60CO cG           |a(K)exp=39.0 {I19} (1989Mu15), 43.1 {I18} (1970Ca19).       
+ 60CO cG           |a(K)exp/|a(L)exp=5.78 {I15}, |a(L)exp/|a(M)exp=7.53 {I18},  
+ 60COxcG |a(L1)exp/|a(L23)exp=2.26 {I8} (1971Pl02).                             
+ 60CO cG E         from 1962Ha46, cryst.                                        
+ 60CO cG M,MR      from |a(L1)exp/|a(L23)exp=2.26 {I8} (1971Pl02).              
+ 60CO cG $I(|g+ce)=99.75 {I3}                                                   
+                                                                                
+ 60NI    60CO B- DECAY (1925.28 D)                               13NDS    201312
+ 60NI  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1849 (2013)$            
+ 60NI2 H CUT=31-Dec-2012$                                                       
+ 60NI c  Based on an evaluation by R. G. Helmer, January 1998 including some    
+ 60NI2c  general comments from previous evaluation (1993Ki10).                  
+ 60NI2c  This evaluation was done as part of a collaboration of evaluators      
+ 60NI3c  from Laboratoire National Henri Becquerel (LNHB) in France;            
+ 60NI4c  Physikalisch-Technische Bundesanstalt (PTB) in Germany; HMS            
+ 60NI5c  Sultan and AEA Technology in the United Kingdom; Khlopin Radium        
+ 60NI6c  Institute (KRI) in Russia; Centro de Investigaciones                   
+ 60NI7c  Energeticas, Medioambientales, y Tecnologicas (CIEMAT) and             
+ 60NI8c  Universidad Nacional a Distancia (UNED) in Spain; and Brookhaven       
+ 60NI9c  National Laboratory (BNL), Lawrence Berkeley National Laboratory       
+ 60NI0c  (LBNL), and Idaho National Engineering and Environmental               
+ 60NIAc  Laboratory (INEEL) in the United States. See also: 1999BeZQ,           
+ 60NIBc  1999BeZS                                                               
+ 60NI c  {+60}Co generally from {+59}Co(n,|g). Measured E|g, I|g with Compton   
+ 60NI2c  suppression spectrometer, Ge(Li) and NaI detectors (1976Ca18).         
+ 60NI3c  Measured E|b, I|b, E|g with magnetic spectrometer, Ge(Li)              
+ 60NI4c  detector (1968Ha03). Measured |g(|q) from {+60}Co polarized in         
+ 60NI5c  Fe by low-temperature techniques with Ge(Li) and NaI detectors         
+ 60NI6c  (1980Kr05). Measured |g|g(t) with combined plastic-NaI detectors       
+ 60NI7c  and centroid shift technique (1976Kl04). Measured E|b in               
+ 60NI8c  iron-free spectrometer (1968Wo02). For |b(|q) emitted from             
+ 60NI9c  polarized {+60}Co, see 1980Ch14. For |g|g(|q) measurements,            
+ 60NI0c  see 1969Kh11. Measured I|g by detecting neutrons from the              
+ 60NIAc  d(|g,n) reaction caused by the 2505 |g-ray (1978Fu05).                 
+ 60NI c  For K-shell ionization in the |b{+-} decay of {+60}Co, see 1983Ki04.   
+ 60NI c  Others: 2008Sy01, 2006Pa20, 2004Ge20, 2004Ka07, 2003Lu04, 1983La06,    
+ 60NI2c  1982Er10, 1977Lo01, 1976Bo16, 1976Hu09, 1973Fu15, 1972Le14, 1970Wa19,  
+ 60NI3c  1970Di01, 1970Ri20, 1969Va20, 1969Ra23, 1961Ca05, 1956Wo09, 1954Ke04.  
+ 60NI c  Decay scheme is internally consistent since the total decay energy     
+ 60NI2c  computed from this scheme is 2821.0 {i2} keV compared                  
+ 60NI3c  to the Q value of 2822.8 {i2}.                                         
+ 60NI c  1998Ku24: measured "Near-Zero Energy" electrons (distribution, peak=   
+ 60NI2c  0.2 eV, FWHM=1 eV) intensity=0.14 per |b{+-} decay                     
+ 60NI c  2010Wa40: measured |b- asymmetry by polarizing a {+60}Co source using  
+ 60NI2c  a low-temperature nuclear orientation method.                          
+ 60NI cB E         From 1968Ha03, except as noted.                              
+ 60NI DG CC$ FROM BrIcc v2.2 (31-Mar-2008) 2008KiAA, "Frozen Orbitals" appr.    
+ 60NI2DG E. Browne (2/28/2013).                                                 
+ 60NI cG           A possible |g of 467 keV with I|g<0.0004% (1969Va20) and     
+ 60NI2cG <0.00023 (1976Ca18) from the known level at 2626 keV to the            
+ 60NI2cG 2158 level is not included here. At the lower intensity limit,         
+ 60NI4cG the I{-|b} to the 2626 level would be <0.001%.                         
+ 60NI cG E         From 2000He14 for 1173 and 1332 |g rays. The others were     
+ 60NI2cG deduced from the level energies from a fit to the |g-ray               
+ 60NI3cG energies. In addition to the 1173 and 1332 values, the input to        
+ 60NI4cG this fit included 346.93 {i7} (1978Ca18 where the authors average      
+ 60NI5cG their result and that of 1969Va20); 826.06 [from                       
+ 60NI6cG {+59}Co(p,|g){+60}Ni (1975Er05)]; 2158.57 {i10} [from                  
+ 60NI7cG {+59}Co(p,|g) (1975Er05)]. Other measured |g energies include:         
+ 60NI8cG 346.95 {i10} (1969Va20)], 826.18 {i20} (1969Va20), 826.28 {i9}         
+ 60NI9cG (1976Ca18, but includes value of 1969Va20), 2158.8 {i4}                
+ 60NI0cG (1970Di01), 2158.9 {i2} (1969Ra07), and 2159.6 {i8} (1969Ho22).        
+ 60NI cG RI        I(K| x ray)=0.0112 computed from decay scheme                
+ 60NI cG M,MR      From {+60}Ni Adopted gammas, except as noted.                
+ 60NI cG CC        Interpolated using program BRICC, unless                     
+ 60NI2cG otherwise noted.                                                       
+ 60NI cL J         From {+60}Ni Adopted Levels.                                 
+ 60CO  P 0.0          5+               1925.28 D 14              2822.8   2     
+ 60NI  N 1.0         1.0       1.0       1.0                                    
+ 60NI PN                                                                     4  
+ 60NI  L 0.0          0+               STABLE                                   
+ 60NI cL           The |b{+-} feeding of this level is a unique 4{+th} forbidden
+ 60NI2cL transition. From the systematics (1998Si17), the log{Ift} of           
+ 60NI3cL this transition will be >23 and the corresponding intensity            
+ 60NI4cL will be <1.0x10{+-10}%.                                                
+ 60NI  L 1332.508  4  2+               0.9 PS    3                              
+ 60NI cL T         from |g|g(t) by 1976Kl04.                                    
+ 60NI  B 1492      20 0.12   3             14.70 11                          2U 
+ 60NIS B EAV=625.87 21                                                          
+ 60NI cB IB        average of measured values of 0.15 {i1} (1954Ke04), 0.010    
+ 60NI2cB {i2} (1956Wo09), 0.12 (1961Ca05), and 0.08 {i2} (1968Ha03).            
+ 60NI  G 1332.492  4 99.9826 6  E2                                              
+ 60NIS G CC=0.0001625 23$KC=0.0001137 16$LC=1.108E-5 16$MC=1.560E-6 22          
+ 60NIS G NC=6.73E-8 10$IPC=3.61E-5 5                                            
+ 60NI cG RI        from I{-|g}(1332)=(100.00 - I{-|g}(2158)[1.0+|a(2158)] -     
+ 60NI2cG I{-|g}(2505)[1.0+|a(2505)]) / [1.00+|a(1332)+|a{-|p}(1332)]=           
+ 60NI3cG 99.9988 {i2} / 1.000162 {i6}. In the evaluation 1991BaZS, this         
+ 60NI4cG is computed in the same fashion, but is given as 99.983% {i6};         
+ 60NI5cG the origin of the larger uncertainty is not clear.                     
+ 60NI cG CC        |a and |a{-K} from 1985HaZA evaluation of measured values;   
+ 60NI2cG from theory (1976Ba63) |a=1.25x10{+-4}, |a{-K}=1.14x10{+-4},           
+ 60NI3cG and |a{-L}=1.13x10{+-5}.                                               
+ 60NI cG CC        |a{-|p}=3.4*10{+-5} {i4} interpolated from theoretical       
+ 60NI2cG values of 1979Sc31; 3.0|*10{+-5} {I3} (1994GrZW)                       
+ 60NI  L 2158.612  21 2+                                                        
+ 60NI  B 670       20 0.000  2             14.0  GE                          2U?
+ 60NI cB IB        from the log| {Ift} systematics (1998Si17), the lowest       
+ 60NI2cB log| {Ift} values for unique second forbidden decays are 13.86         
+ 60NI3cB for {+10}Be and 14.36 and 14.61 for higher masses. For a               
+ 60NI4cB reasonable lower limit of 14.4 for the log| {Ift} for this             
+ 60NI5cB transition, the |b intensity would be less than 0.001%.                
+ 60NI6cB Therefore, the evaluator has assigned the most probable value          
+ 60NI7cB as 0.000 with an uncertainty of 0.002.                                 
+ 60NI  G 826.10    3  0.0076  8 M1+E2    +0.9     3                             
+ 60NIS G CC=0.000337 18$KC=0.000303 17$LC=2.97E-5 17$MC=4.18E-6 23$NC+=1.80E-7 1
+ 60NIS G NC=1.80E-7 10                                                          
+ 60NI cG RI        from 1976Ca18; others: 0.0055 {i47} (1969Va20) and 0.003     
+ 60NI2cG {i2} (1972Le14).                                                       
+ 60NI  G 2158.57   3 0.0012  2 [E2]                                             
+ 60NIS G CC=0.000439 7$KC=4.45E-5 7$LC=4.32E-6 6$MC=6.08E-7 9$NC+=0.000390 6    
+ 60NIS G NC=2.64E-8 4$IPC=0.000389 6                                            
+ 60NI cG RI        from consideration of 0.0012 {i2} (1955Wo44), <0.002         
+ 60NI2cG (1969Ra23), 0.0092 {i16} (1970Di01), 0.0005 {i2} (1972Le14),           
+ 60NI3cG 0.0020 {i13} (1973Fu15), and 0.00111 {i18} (1976Ca18).                 
+ 60NI  L 2505.748   4 4+               3.3 PS     10                            
+ 60NI cL T         see adopted levels.                                          
+ 60NI  B 317.88    10 99.88  3            7.512  2                              
+ 60NIS B EAV=95.77 15                                                           
+ 60NI cB IB        from 100.00 - I{-|b-}(1332) - I{-|b-}(2158).                 
+ 60NI  G 347.14    7  0.0075 4 [E2]                                             
+ 60NIS G CC=0.00557 8$KC=0.00499 7$LC=0.000503 7$MC=7.06E-5 10$NC+=2.90E-6 4    
+ 60NIS G NC=2.90E-6 4                                                           
+ 60NI cG RI        from consideration of <0.005 (1955Wo44), 0.0078 {i12}        
+ 60NI2cG (1969Va20), <0.006 (1970Di01), 0.00758 {i50} (1976Ca18), and           
+ 60NI3cG 0.0069 {i10} (1977Lo01).                                               
+ 60NI  G 1173.228  3  99.85  3  E2(+M3)  -0.0025  22                            
+ 60NIS G CC=0.0001722 25$KC=0.0001500 21$LC=1.465E-5 21$MC=2.06E-6 3            
+ 60NIS G NC=8.88E-8 13$IPC=5.42E-6 8                                            
+ 60NI cG RI        from I{-|g}(1173)=(I{-|b-}(2505) - I{-|g}(347)[1.0+|a(347)]  
+ 60NI2cG - I{-|g}(2505)[1.0+|a(2505)]) / [1.00+|a(1173)+|a{-|p}(1173)]=         
+ 60NI3cG 99.87 {i3} / 1.000174 {i4}.                                            
+ 60NI cG MR        from 1980Kr05.                                               
+ 60NI cG CC        from 1985HaZA evaluation of measured values; from theory     
+ 60NI2cG (1976Ba63) |a=1.65x10{+-4}, |a{-K}=1.50x10{+-4}, and                   
+ 60NI3cG |a{-L}=1.48x10{+-5} {i4}                                               
+ 60NI cG CC        |a{-|p}=6.2*10{+-6} {i7} interpolated from theoretical       
+ 60NI2cG values of 1979Sc31; this value is negligible since it is only          
+ 60NI3cG about 5% of the corresponding |a.                                      
+ 60NI  G 2505.692  5  2.0E-6 4  E4                                              
+ 60NIS G CC=8.63E-5 12$KC=7.76E-5 11$LC=7.58E-6 11$MC=1.069E-6 15$NC+=4.62E-8 7 
+ 60NIS G NC=4.62E-8 7                                                           
+ 60NI cG RI        from consideration of <4x10{+-5} (1970Di01), 9x10{+-6} {i7}  
+ 60NI2cG (1973Fu15), <1x10{+-3} (1977HaXC), 2.0x10{+-6} {i4} (1978Fu05),        
+ 60NI3cG and 5.2x10{+-6} {i20} (1988Se09).                                      
+                                                                                
+ 60NI    60CO B- DECAY (10.467 M)      1963SC14                  13NDS    201312
+ 60NI  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$CIT=NDS 114, 1849 (2013)$            
+ 60NI2 H CUT=31-Dec-2012$                                                       
+ 60NI DG CC$ FROM BrIcc v2.2 (31-Mar-2008) 2008KiAA, "Frozen Orbitals" appr.    
+ 60NI c  Activity from {+59}Co(n,|g). Measured E|b, I|b, T{-1/2}, E|g, I|g.     
+ 60NI2c  Scintillators (1963Sc14). Others: 2010Wa40, 2008Po05.                  
+ 60NI c  See 1973Ha69 for compilation and additional measurements.              
+ 60NI cB           |b{+-} branches are obtained from I(|g+ce) imbalance at each 
+ 60NI2cB level assuming no g.s. feeding (2+ to 0+ transition).                  
+ 60NI cB IB        |b{+-} decay to g.s. <5|*10{+-3} % (1963Sc14)                
+ 60NI cG E         From {+60}Co |b{+-} decay (1925.28 d)                        
+ 60NI cL J         See Adopted Levels.                                          
+ 60CO  P 58.59     1 2+                10.467 M  6              2822.8    2     
+ 60NI  N 1.0                   0.0025  3 400                                    
+ 60NI cN BR        from comparison of I(|g+ce) of isomeric decay                
+ 60NI2cN with I|g rays from |b{+-} decay.                                       
+ 60NI PN                                                                     4  
+ 60NI  L 0.0         0+                STABLE                                   
+ 60NI  L 1332.508   42+                                                         
+ 60NI  B             0.24                   7.2                                 
+ 60NIS B EAV=605.99 9                                                           
+ 60NI  G 1332.492  4 100                                                        
+ 60NI  L 2158.613  222+                                                         
+ 60NI  B             0.0086                 7.4                                 
+ 60NIS B EAV=248.45 9                                                           
+ 60NI  G 826.10    3 3.1     AP                                                 
+ 60NI  G 2158.57   3 0.3     AP                                                 
+                                                                                
